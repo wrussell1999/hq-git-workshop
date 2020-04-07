@@ -5,3 +5,11 @@ def get_random():
 
 def get_meme():
     return "21, got em"
+def cats():
+    return "Meow"
+
+def dogs():
+    return "Woof"
+
+def fish():
+    return "Bubble"
